@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   💬  student, self-taught coder<br>
   🌱 learning Django. REST. VueJS. Steganography. Cryptography<br>
   🖥 develops webapps. back-end works.<br>
-  🧩 likes  painting. cycling. dancing. and obviuosly coding<br>
+  🧩 likes  painting. cycling. dancing. and obviously coding<br>
 </p>
 
 <br>
