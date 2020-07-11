@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align='center'>👋 Hello, I'm Aishwary</h1><br>
 
 <p align='center'>
-  💬  student, self-taught coder
-  🔭 learning Django. REST. VueJS. Steganography. Cryptography<br>
+  💬  student, self-taught coder<br>
+  🌱 learning Django. REST. VueJS. Steganography. Cryptography<br>
   🖥 develops webapps. back-end works.<br>
   🧩 likes  painting. cycling. dancing. and obviuosly coding<br>
 </p>
