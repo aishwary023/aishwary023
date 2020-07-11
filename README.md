@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 <h1 align='center'>👋 Hello, I'm Aishwary</h1><br>
 
 <p align='center'>
-🔭 learning Django. REST. VueJS. Steganography. Cryptography<br>
-🖥 develops webapps. back-end works.<br>
-🧩 likes  painting. cycling. dancing. and obviuosly coding<br>
+  💬  student, self-taught coder
+  🔭 learning Django. REST. VueJS. Steganography. Cryptography<br>
+  🖥 develops webapps. back-end works.<br>
+  🧩 likes  painting. cycling. dancing. and obviuosly coding<br>
 </p>
 
 <br>
