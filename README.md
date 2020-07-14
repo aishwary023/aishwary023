@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/aishwary-saxena/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+  <a href="https://www.aishwary023.github.io/" target="_blank" title="Website"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/link.svg"></i></a>
 <a href="mailto:aishwary.saxena.min19@itbhu.ac.in" target="_blank" title="Gmail"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></a>
 <a href="https://wa.me/918299329212" target="_blank" title="Whatsapp"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/message-circle.svg"></a>
 <a href="https://www.instagram.com/ai.shwary/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
