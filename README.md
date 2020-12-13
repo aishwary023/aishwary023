@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
   💬  student, self-taught coder<br>
-  🌱 learning Django. REST. VueJS. Steganography. Cryptography<br>
+  🌱 learning Django. REST. Angular. InfoSec<br>
   🖥 develops webapps. back-end works.<br>
   🧩 likes  painting. cycling. dancing. and obviously coding<br>
 </p>
